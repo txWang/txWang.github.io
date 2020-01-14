@@ -7,8 +7,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://txwang.github.io"
-footer_text: "Last Updated: 01/13/2020 by Tongxin Wang. Page design by Ankit Sultana."
+footer_url: "https://txwang.github.io/"
+footer_text: "Last Updated: 01/13/2020 by Tongxin Wang."
 
 sass:
     style: compressed
