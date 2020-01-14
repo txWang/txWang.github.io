@@ -25,7 +25,7 @@ LAmbDA: label ambiguous domain adaptation dataset integration reduces batch effe
 Travis S Johnson, **Tongxin Wang**, Zhi Huang, Christina Y Yu, Yi Wu, Yatong Han, Yan Zhang, Kun Huang, and Jie Zhang. *Bioinformatics* 2019. [[paper](https://doi.org/10.1093/bioinformatics/btz295)] [[code](https://github.com/tsteelejohnson91/LAmbDA)]
 
 Diagnosis-guided multi-modal feature selection for prognosis prediction of lung squamous cell carcinoma    
-Wei Shao, **Tongxin Wang**, Zhi Huang, Jun Cheng, Zhi Han, Daoqiang Zhang, and Kun Huang. *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)* 2019.
+Wei Shao, **Tongxin Wang**, Zhi Huang, Jun Cheng, Zhi Han, Daoqiang Zhang, and Kun Huang. *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)* 2019. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_13)]
 
 TSUNAMI: translational bioinformatics tool suite for network analysis and mining    
 Zhi Huang, Zhi Han, **Tongxin Wang**, Wei Shao, Shunian Xiang, Paul Salama, Maher Rizkalla, Kun Huang, and Jie Zhang. *Genomics, Proteomics & Bioinformatics* (accepted) 2019.
