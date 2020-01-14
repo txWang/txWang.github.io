@@ -13,7 +13,7 @@ My research interests lies in the area of biomedical informatics, where I utiliz
 ## Publications
 
 BERMUDA: a novel deep transfer learning method for single-cell RNA sequencing batch correction reveals hidden high-resolution cellular subtypes    
-**Tongxin Wang**, Travis S Johnson, Wei Shao, Zixiao Lu, Bryan R Helm, Jie Zhang, and Kun Huang. *Genome Biology* (IF = 14.028) 2019. [[paper](https://doi.org/10.1186/s13059-019-1764-6)] [[code](https://github.com/txWang/BERMUDA)]
+**Tongxin Wang**, Travis S Johnson, Wei Shao, Zixiao Lu, Bryan R Helm, Jie Zhang, and Kun Huang. *Genome Biology* (IF = 14) 2019. [[paper](https://doi.org/10.1186/s13059-019-1764-6)] [[code](https://github.com/txWang/BERMUDA)]
 
 Generalized gene co-expression analysis via subspace clustering using low-rank representation    
 **Tongxin Wang**, Jie Zhang, and Kun Huang. *BMC Bioinformatics* 2019. [[paper](https://doi.org/10.1186/s12859-019-2733-5)] [[code](https://github.com/txWang/generalized_GCNA)]
