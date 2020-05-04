@@ -10,7 +10,19 @@ I am a Computer Science Ph.D. student at Indiana University Bloomington. I am cu
 
 My research interests lies in the area of biomedical informatics, where I utilize machine learning algorithms to solve biomedical problems. My main focus is on single-cell RNA sequencing (scRNA-seq) data analysis and medical imaging data analysis. I am currently interested in developing deep learning algorithms for understanding scRNA-seq data and effectively extracting biological insights. 
 
+
+## Preprints
+Towards fair cross-domain adaptation via generative learning    
+**Tongxin Wang**, Zhengming Ding, Wei Shao, Haixu Tang, and Kun Huang. *arXiv*. [[paper](https://arxiv.org/abs/2003.02366)]
+
+A transferrable and interpretable multiple instance learning model for microsatellite instability prediction based on histopathology images    
+Zhong-Yi Dong, Rui Cao, Fan Yang, Si-Cong Ma, Li Liu, De-Hua Wu, Yan Li, Yu Zhao, **Tongxin Wang**, Wei-Jia Lu *et al.*. *bioRxiv*. [[paper](https://www.biorxiv.org/content/10.1101/2020.02.29.971150v1.abstract)]
+
+
 ## Publications
+
+Microsatellite instability prediction of uterine corpus endometrial carcinoma based on H&E histology whole-slide imaging    
+**Tongxin Wang**\*, Weijia Lu\*, Fan Yang\*, Li Liu, Zhongyi Dong, Weimin Tang, Jia Chang, Wenjing Huan, Kun Huang, and Jianhua Yao. *IEEE International Symposium on Biomedical Imaging (ISBI)* (accepted) 2020.
 
 BERMUDA: a novel deep transfer learning method for single-cell RNA sequencing batch correction reveals hidden high-resolution cellular subtypes    
 **Tongxin Wang**, Travis S Johnson, Wei Shao, Zixiao Lu, Bryan R Helm, Jie Zhang, and Kun Huang. *Genome Biology* (IF = 14) 2019. [[paper](https://doi.org/10.1186/s13059-019-1764-6)] [[code](https://github.com/txWang/BERMUDA)]
@@ -32,3 +44,5 @@ Zhi Huang, Zhi Han, **Tongxin Wang**, Wei Shao, Shunian Xiang, Paul Salama, Mahe
 
 Integrative analysis of pathological images and multi-dimensional genomic data for early-stage cancer prognosis
 Wei Shao, Zhi Han, Jun Cheng, Liang Cheng, **Tongxin Wang**, Liang Sun, Zixiao Lu, Jie Zhang, Daoqiang Zhang, and Kun Huang. *IEEE Transactions on Medical Imaging (TMI)* 2019. [[paper](https://doi.org/10.1109/TMI.2019.2920608)]
+
+[\* denotes equal contribution]
