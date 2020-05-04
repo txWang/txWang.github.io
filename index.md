@@ -6,17 +6,18 @@ layout: default
 
 <img class="profile-picture" src="Tongxin.jpeg">
 
-I am a Computer Science Ph.D. student at Indiana University Bloomington. I am currently advised by Dr. Kun Huang from IU School of Medicine. Before moving to IU, I spent one year studying Electrical and Computer Engineering at The Ohio State University. I received my B.S. in Physics from Fudan University in 2016.
+I am a Computer Science Ph.D. candidate at Indiana University Bloomington. I am currently advised by Dr. Kun Huang from IU School of Medicine. Before moving to IU, I spent one year studying Electrical and Computer Engineering at The Ohio State University. I received my B.S. in Physics from Fudan University in 2016.
 
 My research interests lies in the area of biomedical informatics, where I utilize machine learning algorithms to solve biomedical problems. My main focus is on single-cell RNA sequencing (scRNA-seq) data analysis and medical imaging data analysis. I am currently interested in developing deep learning algorithms for understanding scRNA-seq data and effectively extracting biological insights. 
 
 
 ## Preprints
+
 Towards fair cross-domain adaptation via generative learning    
 **Tongxin Wang**, Zhengming Ding, Wei Shao, Haixu Tang, and Kun Huang. *arXiv*. [[paper](https://arxiv.org/abs/2003.02366)]
 
 A transferrable and interpretable multiple instance learning model for microsatellite instability prediction based on histopathology images    
-Zhong-Yi Dong, Rui Cao, Fan Yang, Si-Cong Ma, Li Liu, De-Hua Wu, Yan Li, Yu Zhao, **Tongxin Wang**, Wei-Jia Lu *et al.*. *bioRxiv*. [[paper](https://www.biorxiv.org/content/10.1101/2020.02.29.971150v1.abstract)]
+Zhong-Yi Dong, Rui Cao, Fan Yang, Si-Cong Ma, Li Liu, De-Hua Wu, Yan Li, Yu Zhao, **Tongxin Wang**, Wei-Jia Lu *et al*. *bioRxiv*. [[paper](https://www.biorxiv.org/content/10.1101/2020.02.29.971150v1.abstract)]
 
 
 ## Publications
