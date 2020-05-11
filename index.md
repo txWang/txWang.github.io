@@ -41,7 +41,7 @@ Diagnosis-guided multi-modal feature selection for prognosis prediction of lung 
 Wei Shao, **Tongxin Wang**, Zhi Huang, Jun Cheng, Zhi Han, Daoqiang Zhang, and Kun Huang. *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)* 2019. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_13)]
 
 TSUNAMI: translational bioinformatics tool suite for network analysis and mining    
-Zhi Huang, Zhi Han, **Tongxin Wang**, Wei Shao, Shunian Xiang, Paul Salama, Maher Rizkalla, Kun Huang, and Jie Zhang. *Genomics, Proteomics & Bioinformatics* (accepted) 2019.
+Zhi Huang, Zhi Han, **Tongxin Wang**, Wei Shao, Shunian Xiang, Paul Salama, Maher Rizkalla, Kun Huang, and Jie Zhang. *Genomics, Proteomics & Bioinformatics* (accepted) 2019. [[paper](https://www.biorxiv.org/content/10.1101/787507v1)] [[code](https://github.com/huangzhii/TSUNAMI)] [[website](http://spore.ph.iu.edu:3838/zhihuan/TSUNAMI)]
 
 Integrative analysis of pathological images and multi-dimensional genomic data for early-stage cancer prognosis
 Wei Shao, Zhi Han, Jun Cheng, Liang Cheng, **Tongxin Wang**, Liang Sun, Zixiao Lu, Jie Zhang, Daoqiang Zhang, and Kun Huang. *IEEE Transactions on Medical Imaging (TMI)* 2019. [[paper](https://doi.org/10.1109/TMI.2019.2920608)]
