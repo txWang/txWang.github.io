@@ -31,7 +31,7 @@ Multi-task multi-modal learning for joint diagnosis and prognosis of human cance
 Wei Shao, **Tongxin Wang**, Liang Sun, Tianhan Dong, Zhi Han, Zhi Huang, Jie Zhang, Daoqiang Zhang, and Kun Huang. *Medical Image Analysis* (IF = 11.1) 2020. [[paper](https://doi.org/10.1016/j.media.2020.101795)]
 
 Microsatellite instability prediction of uterine corpus endometrial carcinoma based on H&E histology whole-slide imaging    
-**Tongxin Wang**\*, Weijia Lu\*, Fan Yang\*, Li Liu, Zhongyi Dong, Weimin Tang, Jia Chang, Wenjing Huan, Kun Huang, and Jianhua Yao. *IEEE International Symposium on Biomedical Imaging (ISBI)* 2020.
+**Tongxin Wang**\*, Weijia Lu\*, Fan Yang\*, Li Liu, Zhongyi Dong, Weimin Tang, Jia Chang, Wenjing Huan, Kun Huang, and Jianhua Yao. *IEEE International Symposium on Biomedical Imaging (ISBI)* 2020. [[paper](https://ieeexplore.ieee.org/document/9098647)]
 
 BERMUDA: a novel deep transfer learning method for single-cell RNA sequencing batch correction reveals hidden high-resolution cellular subtypes    
 **Tongxin Wang**, Travis S Johnson, Wei Shao, Zixiao Lu, Bryan R Helm, Jie Zhang, and Kun Huang. *Genome Biology* (IF = 10.8) 2019. [[paper](https://doi.org/10.1186/s13059-019-1764-6)] [[code](https://github.com/txWang/BERMUDA)]
