@@ -14,7 +14,7 @@ My research interests lies in the area of biomedical informatics, where I utiliz
 ## Preprints
 
 MORONET: multi-omics integration via graph convolutional networks for biomedical data classification    
-**Tongxin Wang**, Wei Shao, Zhi Huang, Haixu Tang, Zhengming Ding, and Kun Huang. *bioRxiv*. [[paper](https://www.biorxiv.org/content/10.1101/2020.07.02.184705v1.abstract)] [[code](https://github.com/txWang/MORONET)]
+**Tongxin Wang**, Wei Shao, Zhi Huang, Haixu Tang, Jie Zhang, Zhengming Ding, and Kun Huang. *bioRxiv*. [[paper](https://www.biorxiv.org/content/10.1101/2020.07.02.184705v1.abstract)] [[code](https://github.com/txWang/MORONET)]
 
 Towards fair cross-domain adaptation via generative learning    
 **Tongxin Wang**, Zhengming Ding, Wei Shao, Haixu Tang, and Kun Huang. *arXiv*. [[paper](https://arxiv.org/abs/2003.02366)]
@@ -25,7 +25,7 @@ Travis S Johnson, Y Yu Christina, Zhi Huang, Siwen Xu, **Tongxin Wang**, Chuanpe
 ## Publications
 
 Development and interpretation of a pathomics-based model for the prediction of microsatellite instability in colorectal cancer    
-Rui Cao, Fan Yang, Si-Cong Ma, Li Liu, Yu Zhao, Yan Li, De-Hua Wu, **Tongxin Wang**, Wei-Jia Lu, Wei-Jing Cai *et al*. *Theranostics* (accepted, IF = 8.6) 2020. [[paper](https://www.biorxiv.org/content/10.1101/2020.02.29.971150v1.abstract)]
+Rui Cao, Fan Yang, Si-Cong Ma, Li Liu, Yu Zhao, Yan Li, De-Hua Wu, **Tongxin Wang**, Wei-Jia Lu, Wei-Jing Cai *et al*. *Theranostics* (IF = 8.6) 2020. [[paper](https://www.thno.org/v10p11080)]
 
 Multi-task multi-modal learning for joint diagnosis and prognosis of human cancers    
 Wei Shao, **Tongxin Wang**, Liang Sun, Tianhan Dong, Zhi Han, Zhi Huang, Jie Zhang, Daoqiang Zhang, and Kun Huang. *Medical Image Analysis* (IF = 11.1) 2020. [[paper](https://doi.org/10.1016/j.media.2020.101795)]
@@ -34,7 +34,7 @@ Microsatellite instability prediction of uterine corpus endometrial carcinoma ba
 **Tongxin Wang**\*, Weijia Lu\*, Fan Yang\*, Li Liu, Zhongyi Dong, Weimin Tang, Jia Chang, Wenjing Huan, Kun Huang, and Jianhua Yao. *IEEE International Symposium on Biomedical Imaging (ISBI)* 2020. [[paper](https://ieeexplore.ieee.org/document/9098647)]
 
 BERMUDA: a novel deep transfer learning method for single-cell RNA sequencing batch correction reveals hidden high-resolution cellular subtypes    
-**Tongxin Wang**, Travis S Johnson, Wei Shao, Zixiao Lu, Bryan R Helm, Jie Zhang, and Kun Huang. *Genome Biology* (IF = 10.8) 2019. [[paper](https://doi.org/10.1186/s13059-019-1764-6)] [[code](https://github.com/txWang/BERMUDA)]
+**Tongxin Wang**, Travis S Johnson, Wei Shao, Zixiao Lu, Bryan R Helm, Jie Zhang, and Kun Huang. *Genome Biology* (IF = 14.0) 2019. [[paper](https://doi.org/10.1186/s13059-019-1764-6)] [[code](https://github.com/txWang/BERMUDA)]
 
 Generalized gene co-expression analysis via subspace clustering using low-rank representation    
 **Tongxin Wang**, Jie Zhang, and Kun Huang. *BMC Bioinformatics* 2019. [[paper](https://doi.org/10.1186/s12859-019-2733-5)] [[code](https://github.com/txWang/generalized_GCNA)]
