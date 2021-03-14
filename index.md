@@ -8,21 +8,20 @@ layout: default
 
 I am a Computer Science Ph.D. candidate at Indiana University Bloomington. I am currently advised by Dr. Kun Huang from IU School of Medicine. Before moving to IU, I spent one year studying Electrical and Computer Engineering at The Ohio State University. I received my B.S. in Physics from Fudan University in 2016.
 
-My research interests lies in the area of biomedical informatics, where I utilize machine learning algorithms to solve biomedical problems. My main focus is on single-cell RNA sequencing (scRNA-seq) data analysis and medical imaging data analysis. I am currently interested in developing deep learning algorithms for understanding scRNA-seq data and effectively extracting biological insights. 
+My research interests lies in the area of biomedical informatics, where I utilize machine learning algorithms to solve biomedical problems. My main focus is on omics data analysis and medical imaging data analysis. I am currently interested in developing deep learning algorithms for understanding different omics data and effectively extracting biological insights. 
 
 
 ## Preprints
 
 MORONET: multi-omics integration via graph convolutional networks for biomedical data classification    
-**Tongxin Wang**, Wei Shao, Zhi Huang, Haixu Tang, Jie Zhang, Zhengming Ding, and Kun Huang. *bioRxiv*. [[paper](https://www.biorxiv.org/content/10.1101/2020.07.02.184705v1.abstract)] [[code](https://github.com/txWang/MORONET)]
-
-Towards fair cross-domain adaptation via generative learning    
-**Tongxin Wang**, Zhengming Ding, Wei Shao, Haixu Tang, and Kun Huang. *arXiv*. [[paper](https://arxiv.org/abs/2003.02366)]
+**Tongxin Wang**\*, Wei Shao\*, Zhi Huang, Haixu Tang, Jie Zhang, Zhengming Ding, and Kun Huang. *bioRxiv*. [[paper](https://www.biorxiv.org/content/10.1101/2020.07.02.184705v1.abstract)] [[code](https://github.com/txWang/MORONET)]
 
 Diagnostic Evidence GAuge of Single cells (DEGAS): A transfer learning framework to infer impressions of cellular and patient phenotypes between patients and single cells    
 Travis S Johnson, Y Yu Christina, Zhi Huang, Siwen Xu, **Tongxin Wang**, Chuanpeng Dong, Wei Shao, Mohammed Abu Zaid, Yijie Wang, Christopher Bartlett *et al*. *bioRxiv*. [[paper](https://www.biorxiv.org/content/10.1101/2020.06.16.142984v1.abstract)] [[code](https://github.com/tsteelejohnson91/DEGAS)]
 
 ## Publications
+Towards fair cross-domain adaptation via generative learning    
+**Tongxin Wang**, Zhengming Ding, Wei Shao, Haixu Tang, and Kun Huang. *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)* 2021. [[paper](https://openaccess.thecvf.com/content/WACV2021/html/Wang_Towards_Fair_Cross-Domain_Adaptation_via_Generative_Learning_WACV_2021_paper.html)]
 
 Development and interpretation of a pathomics-based model for the prediction of microsatellite instability in colorectal cancer    
 Rui Cao, Fan Yang, Si-Cong Ma, Li Liu, Yu Zhao, Yan Li, De-Hua Wu, **Tongxin Wang**, Wei-Jia Lu, Wei-Jing Cai *et al*. *Theranostics* (IF = 8.6) 2020. [[paper](https://www.thno.org/v10p11080)]
