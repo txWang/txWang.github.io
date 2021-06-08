@@ -8,7 +8,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://txwang.github.io/"
-footer_text: "Last Updated: 03/14/2021 by Tongxin Wang."
+footer_text: "Last Updated: 06/08/2021 by Tongxin Wang."
 
 sass:
     style: compressed

@@ -13,13 +13,18 @@ My research interests lies in the area of biomedical informatics, where I utiliz
 
 ## Preprints
 
-MORONET: multi-omics integration via graph convolutional networks for biomedical data classification    
-**Tongxin Wang**\*, Wei Shao\*, Zhi Huang, Haixu Tang, Jie Zhang, Zhengming Ding, and Kun Huang. *bioRxiv*. [[paper](https://www.biorxiv.org/content/10.1101/2020.07.02.184705v1.abstract)] [[code](https://github.com/txWang/MORONET)]
+Diagnostic Evidence GAuge of Single cells (DEGAS): A flexible deep-transfer learning framework for prioritizing cells in relation to disease    
+Travis S Johnson, Y Yu Christina, Zhi Huang, Siwen Xu, **Tongxin Wang**, Chuanpeng Dong, Wei Shao, Mohammed Abu Zaid, Xiaoqing Huang, Yijie Wang *et al*. *bioRxiv*. [[paper](https://www.biorxiv.org/content/10.1101/2020.06.16.142984v1.abstract)] [[code](https://github.com/tsteelejohnson91/DEGAS)]
 
-Diagnostic Evidence GAuge of Single cells (DEGAS): A transfer learning framework to infer impressions of cellular and patient phenotypes between patients and single cells    
-Travis S Johnson, Y Yu Christina, Zhi Huang, Siwen Xu, **Tongxin Wang**, Chuanpeng Dong, Wei Shao, Mohammed Abu Zaid, Yijie Wang, Christopher Bartlett *et al*. *bioRxiv*. [[paper](https://www.biorxiv.org/content/10.1101/2020.06.16.142984v1.abstract)] [[code](https://github.com/tsteelejohnson91/DEGAS)]
 
 ## Publications
+
+MOGONET integrates multi-omics data using graph convolutional networks allowing patient classification and biomarker identification    
+**Tongxin Wang**\*, Wei Shao\*, Zhi Huang, Haixu Tang, Jie Zhang, Zhengming Ding, and Kun Huang. *Nature Communications* (IF = 12.1) 2021. [[paper](https://www.nature.com/articles/s41467-021-23774-w)] [[code](https://github.com/txWang/MOGONET)]
+
+TSUNAMI: translational bioinformatics tool suite for network analysis and mining    
+Zhi Huang, Zhi Han, **Tongxin Wang**, Wei Shao, Shunian Xiang, Paul Salama, Maher Rizkalla, Kun Huang, and Jie Zhang. *Genomics, Proteomics & Bioinformatics* 2021. [[paper](https://doi.org/10.1016/j.gpb.2019.05.006)] [[code](https://github.com/huangzhii/TSUNAMI)] [[website](http://spore.ph.iu.edu:3838/zhihuan/TSUNAMI)]
+
 Towards fair cross-domain adaptation via generative learning    
 **Tongxin Wang**, Zhengming Ding, Wei Shao, Haixu Tang, and Kun Huang. *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)* 2021. [[paper](https://openaccess.thecvf.com/content/WACV2021/html/Wang_Towards_Fair_Cross-Domain_Adaptation_via_Generative_Learning_WACV_2021_paper.html)]
 
@@ -46,9 +51,6 @@ Travis S Johnson, **Tongxin Wang**, Zhi Huang, Christina Y Yu, Yi Wu, Yatong Han
 
 Diagnosis-guided multi-modal feature selection for prognosis prediction of lung squamous cell carcinoma    
 Wei Shao, **Tongxin Wang**, Zhi Huang, Jun Cheng, Zhi Han, Daoqiang Zhang, and Kun Huang. *International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)* 2019. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-32251-9_13)]
-
-TSUNAMI: translational bioinformatics tool suite for network analysis and mining    
-Zhi Huang, Zhi Han, **Tongxin Wang**, Wei Shao, Shunian Xiang, Paul Salama, Maher Rizkalla, Kun Huang, and Jie Zhang. *Genomics, Proteomics & Bioinformatics* (accepted) 2019. [[paper](https://www.biorxiv.org/content/10.1101/787507v1)] [[code](https://github.com/huangzhii/TSUNAMI)] [[website](http://spore.ph.iu.edu:3838/zhihuan/TSUNAMI)]
 
 Integrative analysis of pathological images and multi-dimensional genomic data for early-stage cancer prognosis
 Wei Shao, Zhi Han, Jun Cheng, Liang Cheng, **Tongxin Wang**, Liang Sun, Zixiao Lu, Jie Zhang, Daoqiang Zhang, and Kun Huang. *IEEE Transactions on Medical Imaging (TMI)* 2019. [[paper](https://doi.org/10.1109/TMI.2019.2920608)]
