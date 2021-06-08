@@ -14,7 +14,7 @@ My research interests lies in the area of biomedical informatics, where I utiliz
 ## Preprints
 
 Diagnostic Evidence GAuge of Single cells (DEGAS): A flexible deep-transfer learning framework for prioritizing cells in relation to disease    
-Travis S Johnson, Y Yu Christina, Zhi Huang, Siwen Xu, **Tongxin Wang**, Chuanpeng Dong, Wei Shao, Mohammed Abu Zaid, Xiaoqing Huang, Yijie Wang *et al*. *bioRxiv*. [[paper](https://www.biorxiv.org/content/10.1101/2020.06.16.142984v1.abstract)] [[code](https://github.com/tsteelejohnson91/DEGAS)]
+Travis S Johnson, Y Yu Christina, Zhi Huang, Siwen Xu, **Tongxin Wang**, Chuanpeng Dong, Wei Shao, Mohammed Abu Zaid, Xiaoqing Huang, Yijie Wang *et al*. *bioRxiv*. [[paper](https://www.biorxiv.org/content/10.1101/2020.06.16.142984v2)] [[code](https://github.com/tsteelejohnson91/DEGAS)]
 
 
 ## Publications
