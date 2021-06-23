@@ -3,11 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: tw11 [at] iu.edu
-* Address:     
-Rm 359 Regenstrief Institute    
-1101 West Tenth Street    
-Indianapolis, IN 46202
+* Email: tw11 [at] iu.edu    
 
 <!--## Mailing Address
 
